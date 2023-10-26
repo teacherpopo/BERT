@@ -1,5 +1,4 @@
 {
-  "_name_or_path": "facebook/bart-large-cnn",
   "_num_labels": 3,
   "activation_dropout": 0.0,
   "activation_function": "gelu",
@@ -63,7 +62,7 @@
       "num_beams": 4
     }
   },
-  "transformers_version": "4.4.2",
+  "transformers_version": "4.7.0.dev0",
   "use_cache": true,
   "vocab_size": 50264
 }
